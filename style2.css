@@ -1,0 +1,21 @@
+.bold{
+    color:white;
+}
+
+tr:nth-of-type(even){
+    background-color:lightgreen;
+}
+
+tr:last-of-type{
+    background-color:#427fef;
+}
+
+.blue{
+    border-color: #c4dcf3 ;
+    background-color:#427fef;  
+    text-align:left;
+}
+
+table{
+    border-collapse:collapse;
+}
