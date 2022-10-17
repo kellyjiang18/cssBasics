@@ -1,20 +1,7 @@
-.container{
-    border:3px solid lightgray;
-    display:flex;
-    flex-direction:inherit;
-}
-
-.box:first-of-type{
+.box{
     width:5rem;  
     height:5rem;
-    margin:1rem;
     background-color:red;
-}
-
-.box:last-of-type{
-    width:5rem;
-    height:5rem;
     margin:1rem;
-    background-color: gray;
-    box-shadow:10 px;
+    box-shadow: 10px 5px 5px gray;
 }
